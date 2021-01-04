@@ -4,7 +4,7 @@ Manage your slash commands by __editing__ these files.
 
 ## Needed
 
-To work, you need to install "requests" on Python with the following command.
+To work, you need to install `requests` on Python with the following command.
 
 ```
 python3 -m pip install -U requests
