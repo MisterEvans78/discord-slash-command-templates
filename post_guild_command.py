@@ -37,12 +37,14 @@ json = {
 
 '''
 List of types :
+1 : sub command
+2 : sub command group
 3 : string
 4 : integer
 5 : boolean
 6 : member
 7 : channel
-8 : roles
+8 : role
 '''
  
 headers = {
